@@ -2,7 +2,7 @@
 => Overall page - <a href="https://github.com/ritika646/OLA-Ride-Data-Analysis/blob/main/Screenshot%202025-06-22%20182142.png">Overall Page</a>
 => Vehical page - <a href="https://github.com/ritika646/OLA-Ride-Data-Analysis/blob/main/Screenshot%202025-06-22%20182200.png">Vehical Page</a>
 => Revenue page - <a href="https://github.com/ritika646/OLA-Ride-Data-Analysis/blob/main/Screenshot%202025-06-22%20182213.png">Revenue Page</a>
-=> Cancel  page - <a href="https://github.com/amansinha061275/OLA-Ride-Data-Analysis/blob/main/Screenshot%202025-06-22%20182225.png">Cancle Page</a>
+=> Cancel  page - <a href="https://github.com/ritika646/OLA-Ride-Data-Analysis/blob/main/Screenshot%202025-06-22%20182225.png">Cancle Page</a>
  => Rating  page - <a href="https://github.com/amansinha061275/OLA-Ride-Data-Analysis/blob/main/Screenshot%202025-06-22%20182236.png">Rating page</a>
 
 ### 🔍 **1. Overall Performance**
